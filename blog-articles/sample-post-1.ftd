@@ -1,0 +1,169 @@
+-- import: meenukumari28.github.io/pink-tree/common
+-- import: meenukumari28.github.io/pink-tree as blog
+-- import: meenukumari28.github.io/pink-tree/blog-authors/pema as author
+
+-- common.post-meta meta: Lorem ipsum dolor sit amet. Qui tempora quidem voluptates sed
+tag: LOREM IPSUM
+post-image: $assets.files.assets.featured-post.jpg
+post-url: blog-articles/sample-post-1/
+
+Et dolorem quia a repellendus blanditiis aut unde mollitia qui iusto rerum sed
+velit nesciunt et dicta quis ut ipsam facilis. 33 odio sint qui consequatur
+modi ut dignissimos eius.
+
+-- common.post-meta meta1: Quo praesentium sapiente vel soluta assumenda et
+tag: LOREM
+post-image: $assets.files.assets.card1.jpg
+post-url: blog-articles/sample-post-1/
+
+-- common.post-meta meta2: Eos libero natus est minima laudantium
+tag: LOREM
+post-image: $assets.files.assets.card2.jpg
+post-url: blog-articles/sample-post-1/
+
+-- common.post-meta meta3: Ut dolore esse aut maxime dicta in quasi Non dignissimos 
+tag: COMMUNITY STORIES, DESIGN, MARKETING
+post-image: $assets.files.assets.blog.jpg
+post-url: blog-articles/sample-post-1/
+published-on: 16 Mar 2023
+author: $author.pema
+
+Lorem ipsum dolor sit amet. Ut consequatur autem est distinctio iure aut
+nesciunt laudantium. Non quia temporibus non dolor necessitatibus
+
+
+
+
+-- my-ds.page:
+full-width: true
+sidebar: false
+
+-- blog.post:
+meta: $meta3
+
+-- ds.markdown:
+
+Lorem ipsum dolor sit amet. Est voluptatem esse ea repellat facere ut itaque
+labore ex quaerat error et distinctio reiciendis? Quo praesentium sapiente vel
+soluta assumenda et omnis doloremque est beatae voluptatem! Lorem ipsum dolor
+sit amet. Est voluptatem esse ea repellat facere ut itaque labore ex quaerat
+error et distinctio reiciendis? Quo praesentium sapiente vel soluta assumenda
+et omnis doloremque est beatae voluptatem! Lorem ipsum dolor sit amet. Est
+voluptatem esse ea repellat facere ut itaque labore ex quaerat error et
+distinctio reiciendis? Quo praesentium sapiente vel soluta assumenda et omnis
+doloremque est beatae voluptatem! Lorem ipsum dolor sit amet. Est voluptatem
+esse ea repellat facere ut itaque labore ex quaerat error et distinctio
+reiciendis? Quo praesentium sapiente vel soluta assumenda et omnis doloremque
+est beatae voluptatem! 
+
+-- ds.image:
+src: $assets.files.assets.post.jpg
+width.fixed.px: 550
+
+-- ds.h2: Working remotely as a digital nomad in Honduras
+
+-- ds.markdown:
+
+Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias galisum! In
+laborum animi eum repellat ullam non temporibus delectus.Eos libero natus est
+minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid. Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! In laborum animi eum repellat ullam non temporibus delectus.Eos libero
+natus est minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid.
+
+-- ds.h2: Roatan Island as a digital nomad base
+
+-- ds.markdown:
+
+Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias galisum! In
+laborum animi eum repellat ullam non temporibus delectus.Eos libero natus est
+minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid. Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! 
+
+In laborum animi eum repellat ullam non temporibus delectus.Eos libero
+natus est minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid.
+
+Quo praesentium sapiente vel soluta assumenda et omnis doloremque est beatae
+voluptatem! Eum delectus dolorum et animi consectetur est asperiores tempore
+rem inventore nihil.Quo praesentium sapiente vel soluta assumenda et omnis
+doloremque est beatae voluptatem! Eum delectus dolorum et animi consectetur est
+asperiores tempore rem inventore nihil.Quo praesentium sapiente vel soluta
+assumenda et omnis doloremque est beatae voluptatem! Eum delectus dolorum et
+animi consectetur est asperiores tempore rem inventore nihil.
+
+-- ds.image:
+src: $assets.files.assets.post1.jpg
+width.fixed.px: 550
+
+-- ds.h2: Activities in Roatan
+
+-- ds.markdown:
+
+Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias galisum! In
+laborum animi eum repellat ullam non temporibus delectus.Eos libero natus est
+minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid. Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! 
+
+In laborum animi eum repellat ullam non temporibus delectus.Eos libero
+natus est minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid.
+
+-- quote.storm-cloud: Milton Berle
+
+"If opportunity doesn't knock, build a door"
+
+-- ds.h2: Coworking in Roatan
+
+-- ds.markdown:
+
+In laborum animi eum repellat ullam non temporibus delectus.Eos libero
+natus est minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid.
+
+-- ds.image:
+src: $assets.files.assets.img3.jpeg
+width.fixed.px: 550
+
+-- ds.markdown:
+
+Along with fast Wifi and great amenities, Beach Desk had incredible views of the
+Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias galisum! In
+laborum animi eum repellat ullam non temporibus delectus.Eos libero natus est
+minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid. Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! In laborum animi eum repellat ullam non temporibus delectus.Eos libero
+natus est minima laudantium hic dolor maxime et necessitatibus voluptatem. Sed
+accusantium magnam sed earum voluptatum quo mollitia voluptatem quo provident
+aliquid. Ad quam tenetur est repellendus dicta vel voluptas omnis ut alias
+galisum! 
+
+-- quote.marengo: FifthTry
+
+Our language is specifically designed for human beings, not just programmers.
+
+-- ds.h2: Wrap-Up: Life as a Digital Nomad in Roatan
+
+-- ds.markdown:
+
+Quo praesentium sapiente vel soluta assumenda et omnis doloremque est beatae
+voluptatem! Eum delectus dolorum et animi consectetur est asperiores tempore
+rem inventore nihil.Quo praesentium sapiente vel soluta assumenda et omnis
+doloremque est beatae voluptatem! Eum delectus dolorum et animi consectetur est
+asperiores tempore rem inventore nihil.Quo praesentium sapiente vel soluta
+assumenda et omnis doloremque est beatae voluptatem! Eum delectus dolorum et
+animi consectetur est asperiores tempore rem inventore nihil.
+
+-- end: my-ds.page

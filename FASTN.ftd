@@ -3,16 +3,20 @@
 -- fastn.package: meenukumari28.github.io/pink-tree
 favicon: /-/meenukumari28.github.io/pink-tree/favicon.ico
 
--- fastn.dependency: fastn-community.github.io/doc-site as doc-site
--- fastn.dependency: fastn-community.github.io/footer
--- fastn.dependency: fastn-community.github.io/roboto-typography
+-- fastn.dependency: fastn-community.github.io/midnight-storm as ds
+-- fastn.dependency: meenukumari28.github.io/pink-tree-cs as cs
+-- fastn.dependency: fifthtry.github.io/bling
 
--- fastn.auto-import: meenukumari28.github.io/pink-tree/FASTN/ds
+-- fastn.auto-import: meenukumari28.github.io/pink-tree/FASTN/my-ds
 -- fastn.auto-import: meenukumari28.github.io/pink-tree/assets
--- fastn.auto-import: doc-site
+-- fastn.auto-import: fifthtry.github.io/bling/quote as quote
+-- fastn.auto-import: ds
+-- fastn.auto-import: cs
 
 -- fastn.sitemap:
 
-# Home: index.html
+# Blog: index.html
 
-- Right Sidebar Sample: /sidebar/
+## Sample Post: /blog-articles/sample-post-1/
+
+# About: index.html

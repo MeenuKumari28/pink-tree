@@ -1,0 +1,24 @@
+-- import: meenukumari28.github.io/pink-tree/common 
+-- import: meenukumari28.github.io/pink-tree as blog
+
+
+
+
+
+-- common.author-meta pema: Pema Chinyam
+profile: UI Designer
+bio-url: blog-authors/pema/
+image: $assets.files.assets.avatar.svg
+company: XYZ Pvt. Ltd.
+
+Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
+incididunt ut labore et dolore magna aliqua. 
+
+-- ds.page: 
+full-width: true
+sidebar: false
+
+-- blog.author-bio: 
+author: $pema
+
+-- end: ds.page
